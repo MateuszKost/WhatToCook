@@ -1,0 +1,88 @@
+* Poledwica_w_sosie_grzybowym 50 1100 210 4 18 4.2
+- poledwica 550 g
+- oliwa 50 ml
+- czosnek 60 g
+- grzyby 70 g
+- kurki 200 g
+- smietana 150 ml
+* Zapiekanka_makaronowa 30 1400 170 3 8 4.5
+- makaron 300 g
+- piers_z_kurczaka 350 g
+- czosnek 60 g
+- pieczarki 300 g
+- smietana 100 ml
+* Kotlety_ziemniaczane_z_kurczakiem 40 1800 220 6 15 4.7
+- piers_z_kurczaka 200 g
+- rukola 200 g
+- ziemniaki 1000 g
+- maka 60 g
+- jajko 5 szt
+* Lazania 60 2200 210 8 18 4.6
+- olej 40 ml
+- cebula 100 g
+- marchewka 100 g
+- mieso_mielone 700 g
+- pomidory 900 g
+- ser 200 g
+* Zeberka_w_miodzie 90 1300 290 3 22 5
+- zeberka 1000 g
+- olej 40 ml
+- miod 60 ml
+- czosnek 60 g
+- piwo 100 ml
+* Papryka_faszerowana 70 1900 220 6 12 4.3 
+- papryka 600 g
+- ryz 200 g
+- mieso_mielone 450 g
+- cebula 200 g
+- czosnek 60 g
+- woda 200 ml
+- pomidory 200 g
+- ser 100 g
+* Tortilla_z_kurczakiem 45 950 110 2 9 4.8
+- cebula 200 g
+- kurczak 500 g
+- papryka 200 g
+- ser 100 g
+- bazylia 50 g
+* Pizza_z_patelni 42 700 180 2 7 4.3
+- maka 250 g
+- drozdze 7 g
+- cukier 20 g
+- oliwa 50 ml
+- szynka 100 g
+- ser 100 g
+* Leczo_z_cukinia 60 1660 130 5 13 4.5 
+- olej 60 ml
+- cebula 200 g
+- czosnek 60 g
+- kielbasa 600 g
+- papryka 200 g
+- pomidory 400 g
+- woda 250 ml
+* Pulpety_w_sosie_pomidorowym 30 1200 140 3 10 4.3
+- mieso_melone 700 g
+- jajko 1 szt
+- czosnek 60 g
+- pomidory 400 g
+- ser 50 g
+* Schab_w_sosie_koperkowym 70 1400 210 3 22 4.6
+- schab 1000 g
+- czosnek 60 g
+- oliwa 50 ml
+- woda 200 ml
+- smietana 100 ml
+* Penne_z_kurczakiem 50 1200 180 3 18 4.9
+- makaron 200 g
+- piers_z_kurczaka 500 g
+- czosnek 40 g
+- oliwki 50 g
+- smietana 250 ml
+* Indyk_w_sosie_porowo_koperkowym 40 220 1300 3 14 4.4
+- indyk 700 g
+- czosnek 40 g
+- oliwa 40 ml
+- por 200 g
+- smietana 250 ml
+- ryz 200 g
+

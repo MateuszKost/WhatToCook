@@ -1,0 +1,191 @@
+* Kapusta_z_grochem 80 1800 170 6 5 4.8 groch 500 g
+-
+- groch 500 g
+- kapusta_kiszona 1000 g
+- cebula 400 g
+- olej 150 ml
+* Pasztet_warzywny 60 1600 150 4  15 4.7 papryka 750 g
+- 
+- papryka 750 g
+- baklazan 400 g
+- cukinia 300 g
+- cebula 370 g
+- czosnek 50 g
+- ryz 100 g
+- fasola 400 g
+- jajka 3 szt
+- olej 60 ml
+* Risotto 45 1200 160 3 16 4.5 cebula 120 g
+- 
+- cebula 120 g
+- czosnek 10 g
+- oliwa 50 ml
+- ryz 100 g
+- pomidory 800 g
+* Ful_z_tahina 60 900 120 3 18 4.7 cebula 120 g
+- 
+- cebula 120 g
+- czosnek 30 g
+- oliwa 60 ml
+- kumin 20 ml
+- pomidor 80 g 
+- bob 500 g
+- tahina 60 ml
+* Dal_z_rabarbarem 30 1800 140 5 20 4.4 soczewica 400 g
+- 
+- soczewica 400 g
+- woda 600 ml
+- kurkuma 60 ml
+- kumin 30 ml
+- cebula 120 g
+- rabarbar 200 g
+- pomidor 300 g
+- mleczko_kokosowe 400 ml
+* Zimowa_caponata 45 1500 160 5 23 4.7 seler 500 g
+- 
+- seler 500 g
+- oliwa 90 ml
+- czosnek 60 g
+- kapary 40 g
+- pomidor 400 g
+- ocet 40 ml
+* Tajwanski_rosol 30 1200 120 5 17 4.6 cebula 240 g
+- 
+- cebula 240 g
+- marchewka 200 g
+- seler 400 g
+- por 100 g
+- olej 50 ml
+- kurkuma 10 g
+- woda 500 ml
+* Wegeburger_dyniowy 50 1000 180 5 15 4.2 kasza_jaglana 100 g
+- 
+- kasza_jaglana 100 g
+- dynia 600 g
+- cebula 100 g
+- pietruszka 60 g
+- olej 40 ml
+- maka 40 g
+- papryka 80 g
+* Makaron_z_kurkami 30 800 90 2 20 4.5 slonecznik 50 g
+- 
+- slonecznik 50 g
+- woda 100 ml
+- ocet 80 ml
+- makaron 250 g
+- cebula 50 g
+- kurki 200 g
+* Leczo_z_boczniakami 30 1200 120 5 24 4.8 cebula 250 g
+- 
+- cebula 250 g
+- olej 60 ml
+- papryka 200 g
+- cukinia 150 g
+- boczniaki 250 g
+- olej 60 ml
+* Pieczony_kalafior 45 900 130 4 17 4.2 kalafior 600 g
+- 
+- kalafior 600 g
+- olej 50 ml
+- papryka 100 g
+* Kaszotto_z_kapusta 30 800 120 3 12 4  cebula 200 g
+- 
+- cebula 100 g
+- papryka 50 g
+- olej 60 ml
+- czosnek 20 g
+- ocet 50 ml
+- kapusta 300 g
+* Weganski_gulasz 45 1500 150 5 19 4.5  cebula 200 g
+- 
+- cebula 200 g
+- olej 120 ml
+- papryka 100 g
+- woda 200 ml
+- marchewka 400 g
+- seler 150 g
+- pietruszka 150 g
+- pieczarki 500 g
+* Kowbojska_zupa 30 1200 120 6 24 4.3 cebula 200 g
+- 
+- cebula 200 g
+- czosnek 30 g
+- papryka 100 g
+- fasola 200 g
+- bulion 300 ml
+- ocet 40 ml
+* Bigos_z_boczniakami 60 1800 150 9 30 4.4 olej 60 ml
+- 
+- olej 60 ml
+- cebula 100 g
+- woda 400 ml
+- kapusta 1000 g
+- sliwka 10 szt
+- grzyby 10 g
+- boczniaki 500 g
+- papryka 100 g
+* Meksykanskie_boczniaki 45 900 120 4 22 4.6  czosnek 60 g
+- 
+- czosnek 60 g
+- papryka 100 g
+- olej 60 ml
+- boczniaki 500 g
+- ocet 20 ml
+- cebula 120 g
+* Pieczony_kalafior_z_orzechami 45 900 130 4 19 4.3 kalafior 400 g
+- 
+- kalafior 400 g
+- olej 60 ml
+- cebula 60 g
+- kapary 60 g
+- oliwa 50 ml
+- syrop_z_agawy 30 ml
+* Tofu_po_koreansku 30 1200 140 4 27 4.6 tofu 400 g
+- 
+- tofu 400 g
+- olej 40 ml
+- cebula 100 g
+- czosnek 20 g
+- woda 100 ml
+- szczypiorek 20 g
+* Pieczony_falafel 70 900 160 9 25 4.1 ciecierzyca 400 g
+-
+- ciecierzyca 400 g
+- daktyle 15 szt
+- cebula 100 g
+- czosnek 40 g
+- pietruszka 20 g
+- kumin 20 g
+- cynamon 20 g
+- olej 50 ml
+* Mielone_kalafiorowe 45 1200 110 5 18 4.5 kalafior 300g
+- 
+- kalafior 300g
+- cebula 120 g
+- czosnek 20 g
+- kasza_jaglana 200 g
+- olej 70 ml
+* Nalesniki_bezglutenowe 30 600 110 4 9 4 ryz 150 g
+- 
+- ryz 150 g
+- woda 150 ml
+- maka 150 g
+- olej 60 ml
+- cynamon 20 g
+- wanilia 30 g
+* Zapiekanka_kijowska 60 900 140 3 14 4.4 grzyby 100 g
+- 
+- grzyby 100 g
+- soczewica 300 ml
+- marchewka 150 g
+- pietruszka 100 g
+- seler 30 g
+- cebula 200 g
+- olej 40 ml
+- woda 100 ml
+
+
+
+
+
+ 
